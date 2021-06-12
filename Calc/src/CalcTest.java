@@ -17,6 +17,8 @@ class CalcTest {
 		Assert.assertEquals(12, res);
 		
 		// test
+		
+		// test2
 	}
 
 }
